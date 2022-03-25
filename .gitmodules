@@ -1,0 +1,3 @@
+[submodule "qb-adminmenu"]
+	path = resources/[ADMIN]/qb-adminmenu
+	url = https://github.com/2022-Now-or-Never/qb-adminmenu

@@ -1,3 +1,416 @@
 [submodule "qb-adminmenu"]
 	path = resources/[ADMIN]/qb-adminmenu
 	url = https://github.com/2022-Now-or-Never/qb-adminmenu
+
+[submodule "JD_logs"]
+	path = resources/[ADMIN]/JD_logs
+	url = https://github.com/2022-Now-or-Never/JD_logs
+
+######
+[submodule "qb-core"]
+	path = resources/[CORE]/qb-core
+	url = https://github.com/2022-Now-or-Never/qb-core
+
+[submodule "lj-inventory"]
+	path = resources/[CORE]/lj-inventory
+	url = https://github.com/2022-Now-or-Never/lj-inventory
+
+[submodule "qb-target"]
+	path = resources/[CORE]/qb-target
+	url = https://github.com/2022-Now-or-Never/qb-target
+
+[submodule "qb-clothing"]
+	path = resources/[CORE]/qb-clothing
+	url = https://github.com/2022-Now-or-Never/qb-clothing
+
+[submodule "qb-doorlock"]
+	path = resources/[CORE]/qb-doorlock
+	url = https://github.com/2022-Now-or-Never/qb-doorlock
+
+[submodule "qb-hud"]
+	path = resources/[CORE]/qb-hud
+	url = https://github.com/2022-Now-or-Never/qb-hud
+
+[submodule "qb-input"]
+	path = resources/[CORE]/qb-input
+	url = https://github.com/2022-Now-or-Never/qb-input
+
+[submodule "qb-loading"]
+	path = resources/[CORE]/qb-loading
+	url = https://github.com/2022-Now-or-Never/qb-loading
+
+[submodule "qb-menu"]
+	path = resources/[CORE]/qb-menu
+	url = https://github.com/2022-Now-or-Never/qb-menu
+
+[submodule "qb-multicharacter"]
+	path = resources/[CORE]/qb-multicharacter
+	url = https://github.com/2022-Now-or-Never/qb-multicharacter
+
+[submodule "qb-phone"]
+	path = resources/[CORE]/qb-phone
+	url = https://github.com/2022-Now-or-Never/qb-phone
+
+[submodule "qb-radialmenu"]
+	path = resources/[CORE]/qb-radialmenu
+	url = https://github.com/2022-Now-or-Never/qb-radialmenu
+
+[submodule "qb-skillbar"]
+	path = resources/[CORE]/qb-skillbar
+	url = https://github.com/2022-Now-or-Never/qb-skillbar
+
+[submodule "qb-smallresources"]
+	path = resources/[CORE]/qb-smallresources
+	url = https://github.com/2022-Now-or-Never/qb-smallresources
+
+[submodule "qb-spawn"]
+	path = resources/[CORE]/qb-spawn
+	url = https://github.com/2022-Now-or-Never/qb-spawn
+
+[submodule "qb-weapons"]
+	path = resources/[CORE]/qb-weapons
+	url = https://github.com/2022-Now-or-Never/qb-weapons
+
+[submodule "qb-weathersync"]
+	path = resources/[CORE]/qb-weathersync
+	url = https://github.com/2022-Now-or-Never/qb-weathersync
+
+[submodule "anims"]
+	path = resources/[CORE]/anims
+	url = https://github.com/2022-Now-or-Never/anims
+
+[submodule "qb-commandbinding"]
+	path = resources/[CORE]/qb-commandbinding
+	url = https://github.com/2022-Now-or-Never/qb-commandbinding
+
+######
+
+[submodule "pma-voice"]
+	path = resources/[VOICE]/pma-voice
+	url = https://github.com/2022-Now-or-Never/pma-voice
+
+[submodule "qb-radio"]
+	path = resources/[VOICE]/qb-radio
+	url = https://github.com/2022-Now-or-Never/qb-radio
+
+######
+
+[submodule "ultra-voltlab"]
+	path = resources/[MINIGAMES]/ultra-voltlab
+	url = https://github.com/2022-Now-or-Never/ultra-voltlab
+
+[submodule "datacrack"]
+	path = resources/[MINIGAMES]/datacrack
+	url = https://github.com/2022-Now-or-Never/datacrack
+
+[submodule "qb-lock"]
+	path = resources/[MINIGAMES]/qb-lock
+	url = https://github.com/2022-Now-or-Never/qb-lock
+
+[submodule "ultra-keypackhack"]
+	path = resources/[MINIGAMES]/ultra-keypackhack
+	url = https://github.com/2022-Now-or-Never/ultra-keypackhack
+
+[submodule "qb-keyminigame"]
+	path = resources/[MINIGAMES]/qb-keyminigame
+	url = https://github.com/2022-Now-or-Never/qb-keyminigame
+
+######
+
+[submodule "qb-atms"]
+	path = resources/[ECONOMY]/[BANKING]/qb-atms
+	url = https://github.com/2022-Now-or-Never/qb-atms
+
+[submodule "qb-banking"]
+	path = resources/[ECONOMY]/[BANKING]/qb-banking
+	url = https://github.com/2022-Now-or-Never/qb-banking
+
+[submodule "safecracker"]
+	path = resources/[ECONOMY]/[BANKING]/safecracker
+	url = https://github.com/2022-Now-or-Never/safecracker
+
+#######
+
+[submodule "jim-chairs"]
+	path = resources/[ECONOMY]/[ITEMS]/jim-chairs
+	url = https://github.com/2022-Now-or-Never/jim-chairs
+
+[submodule "qb-fitbit"]
+	path = resources/[ECONOMY]/[ITEMS]/qb-fitbit
+	url = https://github.com/2022-Now-or-Never/qb-fitbit
+
+[submodule "qb-printer"]
+	path = resources/[ECONOMY]/[ITEMS]/qb-printer
+	url = https://github.com/2022-Now-or-Never/qb-printer
+
+#######
+
+[submodule "qb-apartments"]
+	path = resources/[ECONOMY]/[HOUSING]/qb-apartments
+	url = https://github.com/2022-Now-or-Never/qb-apartments
+
+[submodule "qb-houses"]
+	path = resources/[ECONOMY]/[HOUSING]/qb-houses
+	url = https://github.com/2022-Now-or-Never/qb-houses
+
+[submodule "qb-interior"]
+	path = resources/[ECONOMY]/[HOUSING]/qb-interior
+	url = https://github.com/2022-Now-or-Never/qb-interior
+
+#######
+
+[submodule "tr-lumberjack"]
+	path = resources/[ECONOMY]/[JOBS]/tr-lumberjack
+	url = https://github.com/2022-Now-or-Never/tr-lumberjack
+
+[submodule "qb-builderjob"]
+	path = resources/[ECONOMY]/[JOBS]/qb-builderjob
+	url = https://github.com/2022-Now-or-Never/qb-builderjob
+
+[submodule "qb-busjob"]
+	path = resources/[ECONOMY]/[JOBS]/qb-busjob
+	url = https://github.com/2022-Now-or-Never/qb-busjob
+
+[submodule "qb-crypto"]
+	path = resources/[ECONOMY]/[JOBS]/qb-crypto
+	url = https://github.com/2022-Now-or-Never/qb-crypto
+
+[submodule "qb-garbagejob"]
+	path = resources/[ECONOMY]/[JOBS]/qb-garbagejob
+	url = https://github.com/2022-Now-or-Never/qb-garbagejob
+
+[submodule "qb-hotdogjob"]
+	path = resources/[ECONOMY]/[JOBS]/qb-hotdogjob
+	url = https://github.com/2022-Now-or-Never/qb-hotdogjob
+
+[submodule "qb-recyclejob"]
+	path = resources/[ECONOMY]/[JOBS]/qb-recyclejob
+	url = https://github.com/2022-Now-or-Never/qb-recyclejob
+
+[submodule "qb-scrapyard"]
+	path = resources/[ECONOMY]/[JOBS]/qb-scrapyard
+	url = https://github.com/2022-Now-or-Never/qb-scrapyard
+
+[submodule "qb-truckerjob"]
+	path = resources/[ECONOMY]/[JOBS]/qb-truckerjob
+	url = https://github.com/2022-Now-or-Never/qb-truckerjob
+
+[submodule "qb-vineyard"]
+	path = resources/[ECONOMY]/[JOBS]/qb-vineyard
+	url = https://github.com/2022-Now-or-Never/qb-vineyard
+
+[submodule "qb-diving"]
+	path = resources/[ECONOMY]/[JOBS]/qb-diving
+	url = https://github.com/2022-Now-or-Never/qb-diving
+
+######
+
+[submodule "xnTattoos"]
+	path = resources/[ECONOMY]/[SHOPS]/xnTattoos
+	url = https://github.com/2022-Now-or-Never/xnTattoos
+
+[submodule "qb-pawnshop"]
+	path = resources/[ECONOMY]/[SHOPS]/qb-pawnshop
+	url = https://github.com/2022-Now-or-Never/qb-pawnshop
+
+[submodule "qb-shops"]
+	path = resources/[ECONOMY]/[SHOPS]/qb-shops
+	url = https://github.com/2022-Now-or-Never/qb-shops
+
+[submodule "qb-vehicleshop"]
+	path = resources/[ECONOMY]/[SHOPS]/qb-vehicleshop
+	url = https://github.com/2022-Now-or-Never/qb-vehicleshop
+
+########
+
+[submodule "qb-cityhall"]
+	path = resources/[ECONOMY]/[FRACTIONS]/[GOVERNMENT]/qb-cityhall
+	url = https://github.com/2022-Now-or-Never/qb-cityhall
+
+######ä
+
+[submodule "qb-policejob"]
+	path = resources/[ECONOMY]/[FRACTIONS]/[POLICE]/qb-policejob
+	url = https://github.com/2022-Now-or-Never/qb-policejob
+
+[submodule "cqc-mugshot"]
+	path = resources/[ECONOMY]/[FRACTIONS]/[POLICE]/cqc-mugshot
+	url = https://github.com/2022-Now-or-Never/cqc-mugshot
+
+[submodule "qb-prison"]
+	path = resources/[ECONOMY]/[FRACTIONS]/[POLICE]/qb-prison
+	url = https://github.com/2022-Now-or-Never/qb-prison
+
+######
+
+[submodule "qb-ambulancejob"]
+	path = resources/[ECONOMY]/[FRACTIONS]/[MEDIC]/qb-ambulancejob
+	url = https://github.com/2022-Now-or-Never/qb-ambulancejob
+
+######
+
+[submodule "qb-bossmenu"]
+	path = resources/[ECONOMY]/[COMPANIES]/qb-bossmenu
+	url = https://github.com/2022-Now-or-Never/qb-bossmenu
+
+#######
+
+[submodule "qb-mechanicjob"]
+	path = resources/[ECONOMY]/[COMPANIES]/[CARREPAIR]/qb-mechanicjob
+	url = https://github.com/2022-Now-or-Never/qb-mechanicjob
+
+[submodule "qb-towjob"]
+	path = resources/[ECONOMY]/[COMPANIES]/[CARREPAIR]/qb-towjob
+	url = https://github.com/2022-Now-or-Never/qb-towjob
+
+######
+
+[submodule "qb-taxijob"]
+	path = resources/[ECONOMY]/[COMPANIES]/[TAXI]/qb-taxijob
+	url = https://github.com/2022-Now-or-Never/qb-taxijob
+
+#####
+
+[submodule "qb-newsjob"]
+	path = resources/[ECONOMY]/[COMPANIES]/[WEAZELNEWS]/qb-newsjob
+	url = https://github.com/2022-Now-or-Never/qb-newsjob
+
+######
+
+[submodule "qb-gangmenu"]
+	path = resources/[ECONOMY]/[CRIME]/qb-gangmenu
+	url = https://github.com/2022-Now-or-Never/qb-gangmenu
+
+[submodule "nc-headbag"]
+	path = resources/[ECONOMY]/[CRIME]/nc-headbag
+	url = https://github.com/2022-Now-or-Never/nc-headbag
+
+[submodule "qb-lockpick"]
+	path = resources/[ECONOMY]/[CRIME]/qb-lockpick
+	url = https://github.com/2022-Now-or-Never/qb-lockpick
+
+#####
+
+[submodule "qb-bitmining"]
+	path = resources/[ECONOMY]/[CRIME]/[CRIMEJOBS]/qb-bitmining
+	url = https://github.com/2022-Now-or-Never/qb-bitmining
+
+[submodule "qb-drugs"]
+	path = resources/[ECONOMY]/[CRIME]/[CRIMEJOBS]/qb-drugs
+	url = https://github.com/2022-Now-or-Never/qb-drugs
+
+[submodule "qb-traphouse"]
+	path = resources/[ECONOMY]/[CRIME]/[CRIMEJOBS]/qb-traphouse
+	url = https://github.com/2022-Now-or-Never/qb-traphouse
+
+[submodule "qb-weed"]
+	path = resources/[ECONOMY]/[CRIME]/[CRIMEJOBS]/qb-weed
+	url = https://github.com/2022-Now-or-Never/qb-weed
+
+######
+
+[submodule "qb-ifruitstore"]
+	path = resources/[ECONOMY]/[CRIME]/[ROBBERIES]/qb-ifruitstore
+	url = https://github.com/2022-Now-or-Never/qb-ifruitstore
+
+[submodule "qb-bankrobbery"]
+	path = resources/[ECONOMY]/[CRIME]/[ROBBERIES]/qb-bankrobbery
+	url = https://github.com/2022-Now-or-Never/qb-bankrobbery
+
+[submodule "qb-houserobbery"]
+	path = resources/[ECONOMY]/[CRIME]/[ROBBERIES]/qb-houserobbery
+	url = https://github.com/2022-Now-or-Never/qb-houserobbery
+
+[submodule "qb-jewelery"]
+	path = resources/[ECONOMY]/[CRIME]/[ROBBERIES]/qb-jewelery
+	url = https://github.com/2022-Now-or-Never/qb-jewelery
+
+[submodule "qb-storerobbery"]
+	path = resources/[ECONOMY]/[CRIME]/[ROBBERIES]/qb-storerobbery
+	url = https://github.com/2022-Now-or-Never/qb-storerobbery
+
+[submodule "qb-truckrobbery"]
+	path = resources/[ECONOMY]/[CRIME]/[ROBBERIES]/qb-truckrobbery
+	url = https://github.com/2022-Now-or-Never/qb-truckrobbery
+
+[submodule "qb-casinoheist"]
+	path = resources/[ECONOMY]/[CRIME]/[ROBBERIES]/qb-casinoheist
+	url = https://github.com/2022-Now-or-Never/qb-casinoheist
+
+#######
+
+[submodule "qb-blackjack"]
+	path = resources/[ECONOMY]/[CASINO]/qb-blackjack
+	url = https://github.com/2022-Now-or-Never/qb-blackjack
+
+[submodule "qb-casino"]
+	path = resources/[ECONOMY]/[CASINO]/qb-casino
+	url = https://github.com/2022-Now-or-Never/qb-casino
+
+######
+
+[submodule "MojiaGarages"]
+	path = resources/[VEHICLES]/MojiaGarages
+	url = https://github.com/2022-Now-or-Never/MojiaGarages
+
+[submodule "MojiaVehicleKeys"]
+	path = resources/[VEHICLES]/MojiaVehicleKeys
+	url = https://github.com/2022-Now-or-Never/MojiaVehicleKeys
+
+[submodule "lj-fuel"]
+	path = resources/[VEHICLES]/lj-fuel
+	url = https://github.com/2022-Now-or-Never/lj-fuel
+
+[submodule "fakeplates"]
+	path = resources/[VEHICLES]/fakeplates
+	url = https://github.com/2022-Now-or-Never/fakeplates
+
+[submodule "qb-carwash"]
+	path = resources/[VEHICLES]/qb-carwash
+	url = https://github.com/2022-Now-or-Never/qb-carwash
+
+[submodule "qb-customs"]
+	path = resources/[VEHICLES]/qb-customs
+	url = https://github.com/2022-Now-or-Never/qb-customs
+
+[submodule "qb-garages"]
+	path = resources/[VEHICLES]/qb-garages
+	url = https://github.com/2022-Now-or-Never/qb-garages
+
+[submodule "qb-lapraces"]
+	path = resources/[VEHICLES]/qb-lapraces
+	url = https://github.com/2022-Now-or-Never/qb-lapraces
+
+[submodule "qb-streetraces"]
+	path = resources/[VEHICLES]/qb-streetraces
+	url = https://github.com/2022-Now-or-Never/qb-streetraces
+
+[submodule "bjj_tunerchip"]
+	path = resources/[VEHICLES]/bjj_tunerchip
+	url = https://github.com/2022-Now-or-Never/bjj_tunerchip
+
+[submodule "qb-vehiclefailure"]
+	path = resources/[VEHICLES]/qb-vehiclefailure
+	url = https://github.com/2022-Now-or-Never/qb-vehiclefailure
+
+[submodule "qb-vehiclekeys"]
+	path = resources/[VEHICLES]/qb-vehiclekeys
+	url = https://github.com/2022-Now-or-Never/qb-vehiclekeys
+
+[submodule "qb-vehiclesales"]
+	path = resources/[VEHICLES]/qb-vehiclesales
+	url = https://github.com/2022-Now-or-Never/qb-vehiclesales
+
+######
+
+[submodule "xsound"]
+	path = resources/[MULTIMEDIA]/xsound
+	url = https://github.com/2022-Now-or-Never/xsound
+
+[submodule "qb-djbooth"]
+	path = resources/[MULTIMEDIA]/qb-djbooth
+	url = https://github.com/2022-Now-or-Never/qb-djbooth
+
+[submodule "qb-boombox"]
+	path = resources/[MULTIMEDIA]/qb-boombox
+	url = https://github.com/2022-Now-or-Never/qb-boombox
